@@ -8,7 +8,9 @@ A physical demonstration prototype was developed to represent the proposed multi
 
 The prototype was constructed using easily available materials to represent the proposed structure:
 
-- Cardboard box for the crate model
+- Cardboard box for the crate model<img width="1903" height="620" alt="Screenshot 2026-08-25 120555" src="https://github.com/user-attachments/assets/08b00220-fefd-4125-804e-851ac60c978d" />
+<img width="1898" height="642" alt="Screenshot 2026-08-25 120451" src="https://github.com/user-attachments/assets/96a8c848-8eb1-41ba-8adb-705e7fb2ef17" />
+
 - Foam sheet to represent the ethylene-scavenging layer
 - Kitchen towel / porous sheet to represent the cellulose-based porous layer
 - Cardboard support layer
