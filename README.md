@@ -119,7 +119,7 @@ The final material composition and production cost will be optimized during furt
 
 Team contributions:
 
-- **Koushika C P :** Project coordination, documentation and system design
+- **Koushika C P :** Project coordination, documentation and stimulation design
 - **Haridha M :** Scientific research and literature review
 - **Brindhaa S:** Product and layer design
 - **Abinaya N:** Prototype development
