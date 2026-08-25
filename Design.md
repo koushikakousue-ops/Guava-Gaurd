@@ -2,7 +2,7 @@
 
 ## 1. Liner Concept
 
-Guava Guard is a proposed fruit-crate liner designed to help delay guava ripening and maintain fruit quality during storage and transportation.
+Guava Guard is a proposed fruit-crate liner designed to help delay guava ripening and maintain fruit quality during storage and transportation. 
 
 The liner uses abundant agricultural waste materials as functional components.
 
