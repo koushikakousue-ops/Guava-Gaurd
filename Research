@@ -1,4 +1,4 @@
-#Research
+# Research
 
 ## Guava and Post-Harvest Loss
 
@@ -6,15 +6,17 @@ Guava is a highly perishable climacteric fruit. During storage and transportatio
 
 ## Ethylene and Ripening
 
-“Guava can produce roughly 1–20 microlitres of ethylene per kilogram per hour at 20°C, depending on its variety and maturity. In one reported study, production reached about 12.9 µL/kg/hour during peak ripening. So, our Guava Guard liner aims to continuously remove or adsorb this ethylene from the package environment and thereby slow down ripening.
+Guava can produce roughly **1–20 µL of ethylene per kilogram per hour at 20°C**, depending on its variety and maturity. In one reported study, ethylene production reached approximately **12.9 µL/kg/hour** during peak ripening.
 
-Guava Guard proposes the use of an ethylene-scavenging layer to reduce the accumulation of ethylene around the fruit and thereby delay ripening.
+Therefore, the Guava Guard liner aims to reduce the accumulation of ethylene around the fruit and thereby slow down the ripening process.
+
+Guava Guard proposes the use of an **ethylene-scavenging layer** to reduce ethylene accumulation in the package environment.
 
 ## Rice Husk Biochar
 
 Rice husk is an abundant agricultural residue. Through pyrolysis, it can be converted into biochar.
 
-The proposed Guava Guard design uses rice husk biochar as an ethylene-scavenging material. Further experimental testing is required to determine its actual adsorption capacity and optimum quantity for the liner.
+The proposed Guava Guard design uses **rice husk biochar as an ethylene-scavenging material**. Further experimental testing is required to determine its actual adsorption capacity and optimum quantity for the liner.
 
 ## Cellulose-Based Material
 
@@ -88,4 +90,6 @@ The complete structure is designed as a **low-cost, agricultural-waste-based lin
 
 ## Research Gap
 
-Existing ethylene-absorbing technologies are available, but Guava Guard focuses on integrating an agricultural-waste-based scavenging layer into a simple liner format that can fit existing fruit crates without electricity or complicated equipment.
+Existing ethylene-absorbing technologies are available, but Guava Guard focuses on integrating an **agricultural-waste-based scavenging layer** with a **banana pseudostem fibre layer** into a simple liner format that can fit existing fruit crates without electricity or complicated equipment.
+
+Further experimental studies are required to validate **ethylene adsorption, moisture management, mechanical strength and actual shelf-life extension**.
