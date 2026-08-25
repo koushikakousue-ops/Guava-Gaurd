@@ -1,6 +1,6 @@
 # Research
 
-## Guava and Post-Harvest Loss
+## Guava and Post-Harvest Loss 
 
 Guava is a highly perishable climacteric fruit. During storage and transportation, ripening continues due to ethylene production and respiration. Mechanical damage and excess moisture can further contribute to quality deterioration.
 
