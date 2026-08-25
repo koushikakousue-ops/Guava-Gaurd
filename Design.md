@@ -2,33 +2,25 @@
 
 ## 1. Liner Concept
 
-Guava Guard is a proposed fruit-crate liner designed to help delay guava ripening and maintain fruit quality during storage and transportation.  
+Guava Guard is a proposed fruit-crate liner designed to help delay guava ripening and maintain fruit quality during storage and transportation.
 
 The liner uses abundant agricultural waste materials as functional components.
 
 The proposed liner consists of:
 
-- Rice husk biochar-based ethylene-scavenging layer
+- Banana pseudostem cellulose-based Layer 1
 - Tapioca starch-based binding interface
-- Banana pseudostem cellulose-based layer
+- Rice husk biochar-based Layer 2 for ethylene scavenging
 
 ## 2. Material Selection
 
-### 2.1 Rice Husk
-
-Rice husk is an abundant agricultural residue generated during rice processing.
-
-Instead of treating rice husk only as agricultural waste, it can be converted into biochar through pyrolysis.
-
-Rice husk biochar is proposed as the ethylene-scavenging material because of its porous structure and adsorption properties.
-
-### 2.2 Banana Pseudostem
+### 2.1 Banana Pseudostem
 
 Banana pseudostem is an abundant agricultural residue generated after harvesting bananas.
 
-It contains cellulose and can be processed into a cellulose-rich fibrous material.
+It contains cellulose-rich fibres that can be processed into a porous fibrous layer.
 
-In Guava Guard, banana pseudostem is used as the fruit-facing layer.
+In Guava Guard, banana pseudostem is used as the fruit-facing Layer 1.
 
 The banana pseudostem layer has multiple functions:
 
@@ -39,35 +31,25 @@ The banana pseudostem layer has multiple functions:
 
 The use of banana pseudostem also helps convert agricultural waste into a value-added material.
 
-### 2.3 Tapioca Starch
+### 2.2 Tapioca Starch
 
-Tapioca starch is used as a natural binding material between the rice husk biochar layer and the banana pseudostem cellulose layer.
+Tapioca starch is used as a natural binding material between the banana pseudostem cellulose layer and the rice husk biochar layer.
 
 It helps hold the two functional layers together and provides adhesion during liner preparation.
 
 The amount of tapioca starch will need to be optimized so that sufficient bonding is achieved without excessively blocking the pores required for gas and moisture movement.
 
+### 2.3 Rice Husk
+
+Rice husk is an abundant agricultural residue generated during rice processing.
+
+Instead of treating rice husk only as agricultural waste, it can be converted into biochar through pyrolysis.
+
+Rice husk biochar is proposed as the ethylene-scavenging material because of its porous structure and adsorption properties.
+
 ## 3. Layer Structure
 
-### 3.1 Layer 1: Rice Husk Biochar-Based Ethylene-Scavenging Layer
-
-Rice husk is cleaned, dried and converted into biochar through controlled pyrolysis.
-
-The prepared biochar is processed to obtain a suitable particle size and incorporated into the ethylene-scavenging layer.
-
-The porous structure of the biochar is intended to adsorb a portion of the ethylene present around the stored fruit.
-
-This may help reduce ethylene accumulation and potentially delay the ripening process.
-
-### 3.2 Binding Interface: Tapioca Starch
-
-A tapioca starch-based binder is used between the two functional layers.
-
-It helps maintain adhesion between the rice husk biochar layer and the banana pseudostem cellulose layer.
-
-The binder concentration will be optimized during further development.
-
-### 3.3 Layer 2: Banana Pseudostem Cellulose-Based Layer
+### 3.1 Layer 1: Banana Pseudostem Cellulose-Based Layer
 
 Banana pseudostem is cleaned and processed to obtain a cellulose-rich fibrous material.
 
@@ -78,11 +60,44 @@ This layer is intended to:
 - Absorb excess moisture
 - Provide physical separation between the fruit and biochar
 - Allow movement of gases through its porous structure
-- Help manage the moisture surrounding the fruit
+- Provide a pathway for ethylene to reach the biochar layer
+- Help manage moisture surrounding the fruit
+
+### 3.2 Binding Interface: Tapioca Starch
+
+A tapioca starch-based binder is used between the two functional layers.
+
+It helps maintain adhesion between the banana pseudostem cellulose layer and the rice husk biochar layer.
+
+The binder concentration will be optimized during further development.
+
+### 3.3 Layer 2: Rice Husk Biochar-Based Ethylene-Scavenging Layer
+
+Rice husk is cleaned, dried and converted into biochar through controlled pyrolysis.
+
+The prepared biochar is processed to obtain a suitable particle size and incorporated into the ethylene-scavenging layer.
+
+The porous structure of the biochar is intended to adsorb a portion of the ethylene passing through the banana pseudostem layer.
+
+This may help reduce ethylene accumulation around the fruit and potentially delay the ripening process.
 
 ## 4. Proposed Layer Preparation
 
-### 4.1 Preparation of Rice Husk Biochar
+### 4.1 Preparation of Banana Pseudostem Cellulose
+
+The proposed preparation process is:
+
+Banana Pseudostem Collection
+→ Cleaning
+→ Cutting
+→ Suitable Cellulose Extraction/Processing
+→ Washing
+→ Drying
+→ Formation of Porous Cellulose Layer
+
+The exact processing method, layer thickness and moisture absorption capacity will be determined through further testing.
+
+### 4.2 Preparation of Rice Husk Biochar
 
 The proposed preparation process is:
 
@@ -97,36 +112,36 @@ Rice Husk Collection
 
 The exact pyrolysis conditions, particle size and quantity of biochar will be optimized through experimental testing.
 
-### 4.2 Preparation of Banana Pseudostem Cellulose
+### 4.3 Preparation of Tapioca Starch Binder
 
 The proposed preparation process is:
 
-Banana Pseudostem Collection
-→ Cleaning
-→ Cutting
-→ Suitable Cellulose Extraction/Processing
-→ Washing
-→ Drying
-→ Formation of Porous Cellulose Layer
+Tapioca Starch
+→ Mixing with Water
+→ Heating/Gelatinization
+→ Formation of Starch Paste
+→ Application Between the Two Layers
 
-The exact processing method, thickness and moisture absorption capacity will be determined through further testing.
+The exact starch concentration will be optimized to provide adequate bonding while maintaining suitable gas and moisture movement.
 
-### 4.3 Layer Assembly
+### 4.4 Layer Assembly
 
 The proposed assembly process is:
 
-Rice Husk Biochar Layer
+Banana Pseudostem Cellulose Layer
 → Application of Tapioca Starch Binder
-→ Placement of Banana Pseudostem Cellulose Layer
+→ Placement of Rice Husk Biochar Layer
 → Pressing/Binding
 → Drying
-→ Final Guava Guard Liner
+→ Proposed Guava Guard Liner
 
 ## 5. Working Principle
 
 Guava naturally produces ethylene during the ripening process.
 
-The ethylene released by the fruit can move through the porous banana pseudostem cellulose layer toward the rice husk biochar layer.
+The ethylene released by the fruit first encounters the porous banana pseudostem cellulose layer.
+
+The porous structure allows ethylene to pass through the banana pseudostem layer toward the rice husk biochar layer.
 
 The rice husk biochar is intended to adsorb a portion of the ethylene, reducing its accumulation around the fruit.
 
@@ -137,6 +152,7 @@ At the same time, the banana pseudostem cellulose layer is intended to absorb ex
 Guava
 → Ethylene Release
 → Banana Pseudostem Cellulose Layer
+→ Tapioca Starch Interface
 → Rice Husk Biochar Layer
 → Ethylene Adsorption
 
@@ -160,7 +176,7 @@ The prototype uses easily available materials to represent the proposed function
 
 The materials used in the physical model are demonstration substitutes and do not represent the final commercial formulation.
 
-The model demonstrates the arrangement and integration of the proposed layers inside a fruit-crate system.
+The model demonstrates the proposed arrangement and integration of the layers inside a fruit-crate system.
 
 ## 8. Design Requirements
 
@@ -193,6 +209,6 @@ Further experimental testing is required to determine:
 
 ## 10. Design Limitation
 
-The current prototype is a physical demonstration model and does not represent the final commercial liner.
+The current physical model is a demonstration of the proposed liner concept and does not represent the final commercial liner.
 
 The ethylene adsorption capacity, moisture absorption performance, mechanical properties and shelf-life extension of the proposed liner must be experimentally validated before practical or commercial application.
