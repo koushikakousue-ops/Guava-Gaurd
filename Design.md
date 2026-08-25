@@ -1,3 +1,4 @@
+<img width="1402" height="1122" alt="guava guard" src="https://github.com/user-attachments/assets/0e4e876b-0b18-4852-9ded-8e43d458fd6e" />
 # Guava Guard Design
 
 ## 1. Liner Concept
